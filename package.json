@@ -1,0 +1,20 @@
+{
+  "name": "DataTS",
+  "version": "1.0.0",
+  "description": "DataTS",
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "QRC721",
+    "Qtum",
+    "solidity",
+    "contract"
+  ],
+  "author": "ZhengYi@Qtum <zhengyi@qtum.org>",
+  "license": "MIT",
+  "dependencies": {
+    "arg": "2.0.0",
+    "qtumjs": "1.9.1"
+  }
+}
